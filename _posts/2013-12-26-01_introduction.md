@@ -16,12 +16,12 @@ And with your own words, you will elegantly punctuate the mildly obvious message
 
 Many of us enjoy a near continuous distraction from the real world. Our morning email check turns into our book on the bus, which turns into our work computer, which turns into our music coming home, which turns into our evening email check, which turns into our nightly movie. Sleep follows. The pattern is repeated. And to be clear, I mean 'Us' in the very personal sense. I enjoy the Facebook-check compulsion as much as anyone I know. And I don't even post my own content - I just find the random spouting of people I haven't talked to since high school somehow reassuring and comforting. Even creating this book in a digital format is a form of escapism - but let us not be too distracted by the 'meta-ness' of that particular conundrum. 
 
-The cost of this distraction is that the mind is rarely engaged with the reality around you and your relationship to it. The particulars of the here and now are dulled and desaturated by the far and away.
+The cost of this distraction is that the mind is rarely engaged with the reality around you and your relationship to it. The particulars of the _here and now_ are dulled and desaturated by the _far and away_.
 
 This may indeed be explicitly the point for some people. And that is perfectly fine. Even with all my negative connotations, I am not attempting to attach a moral right or wrongness to these distractions. But for some of us, and I believe myself to be included in this camp, we end each daily cycle of distraction with a tinge of guilt. Wanting ourselves to have engaged more fully with the days events.
 
 It is easy to want change. Very difficult to produce it. We can spend a lifetime paying lip service to ideals, regretting the lack of action only at the end of it. 
 
-So what would be one way to take a baby step into the here and now? I suggest birds!
+So what would be one way to take a baby step into the _here and now_? I suggest birds!
 
 
