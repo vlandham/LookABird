@@ -95,6 +95,10 @@ body {
   font-size: 130%;
 }
 
+.top_bird {
+  margin-top: -30px;
+}
+
 .chapter h2 {
   color: hsl(8, 67%, 44%);
   display: block;
