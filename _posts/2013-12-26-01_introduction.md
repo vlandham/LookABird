@@ -4,6 +4,8 @@ title: Introduction
 count: 01
 ---
 
+## Introduction
+
 Look, a Bird! 
 
 If, at this very moment, you happen to be walking outside, or near a window, door, or any less then opaque portal to the natural world, then the proclamation I have written, and you have just read, has a very good chance of being valid and true.

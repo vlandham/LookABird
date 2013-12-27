@@ -2,14 +2,15 @@
 layout: default
 title: Home
 ---
-<h1>Look, A Bird!</h1>
-<h2>A Brief Introduction to Birds and Bird Observation</h2>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="header">
+  <h1>Look, A Bird!</h1>
+  <h2>A Brief Introduction to Birds and Bird Observation</h2>
+</div>
+
+{% for post in site.posts %}
+<div class="chapter">
+  {{ post.content }}
+</div>
+{% endfor %}
 
