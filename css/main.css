@@ -83,7 +83,8 @@ textarea {
 }
 
 body {
-  font-family: 'Georgia Pro', georgia, serif;
+  /* font-family: 'Georgia Pro', georgia, serif; */
+  font-family: 'Droid Serif', georgia, serif;
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
@@ -98,6 +99,10 @@ body {
   text-transform: uppercase;
 }
 
+.header h3 {
+  font-style: italic;
+}
+
 .top_bird {
   margin-top: -30px;
 }
@@ -105,7 +110,9 @@ body {
 .chapter h2 {
   color: hsl(8, 67%, 44%);
   display: block;
-  font-family: 'Franklin ITC Pro Bold', sans-serif;
+  /* font-family: 'Franklin ITC Pro Bold', sans-serif; */
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: 700; 
   font-size: 24px;
   font-style: normal;
   font-variant: normal;
@@ -123,6 +130,7 @@ body {
 
 .entry_content p {
   font-size: 18px;
+  line-height: 30px;
 }
 
 
