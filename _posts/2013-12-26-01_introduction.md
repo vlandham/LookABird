@@ -10,11 +10,15 @@ Look, a Bird!
 
 If, at this very moment, you happen to be walking outside, or near a window, door, or any less then opaque portal to the natural world, then the proclamation I have written, and you have just read, has a very good chance of being valid and true.
 
-If you have the developmental and mental capacity to read these same words, this very same pronouncement will most likely _not_ come with any great shock. "Of course!", you will respond, agitated that I have broken your concentration, and caused you to dislodge your eyeballs from your smart phone for more then two milliseconds. "Birds are everywhere." And you return to slicing virtual fruit. The slight sneer on your face slowly fading to the blank, slack-jawed expression that is its natural orientation when consuming digital feeds. 
+If you have the developmental and mental capacity to read these same words, this very same pronouncement will most likely _not_ come with any great shock. 
+
+"Of course!", you will respond, agitated that I have broken your concentration, and caused you to dislodge your eyeballs from your smart phone for more then two milliseconds. "Birds are everywhere." And you return to slicing virtual fruit. The slight sneer on your face slowly fading to the blank, slack-jawed expression that is its natural orientation when consuming digital feeds. 
 
 And with your own words, you will elegantly punctuate the mildly obvious message I could be trying to make with this modest, but wholly unnecessary literary undertaking.
 
-Many of us enjoy a near continuous distraction from the real world. Our morning email check turns into our book on the bus, which turns into our work computer, which turns into our music coming home, which turns into our evening email check, which turns into our nightly movie. Sleep follows. The pattern is repeated. And to be clear, I mean 'Us' in the very personal sense. I enjoy the Facebook-check compulsion as much as anyone I know. And I don't even post my own content - I just find the random spouting of people I haven't talked to since high school somehow reassuring and comforting. Even creating this book in a digital format is a form of escapism - but let us not be too distracted by the 'meta-ness' of that particular conundrum. 
+Many of us enjoy a near continuous distraction from the real world. Our morning email check turns into our book on the bus, which turns into our work computer, which turns into our music coming home, which turns into our evening email check, which turns into our nightly movie. Sleep follows. The pattern is repeated. 
+
+And to be clear, I mean 'Us' in the very personal sense. I enjoy the Facebook-check compulsion as much as anyone I know. And I don't even post my own content - I just find the random spouting of people I haven't talked to since high school somehow reassuring and comforting. Even creating this book in a digital format is a form of escapism - but let us not be too distracted by the 'meta-ness' of that particular conundrum. 
 
 The cost of this distraction is that the mind is rarely engaged with the reality around you and your relationship to it. The particulars of the _here and now_ are dulled and desaturated by the _far and away_.
 

@@ -10,7 +10,9 @@ Ponder this line of reasoning for a moment. A natural incentive to pay attention
 
 The coffee cup saved as a memoir from one's home town or a beach vacation is a treasured artifact. The Starbucks receptacle of equal utility is casually discarded in the trash. 
 
-What I am attempting to suggest, in a round-about ineffective way, is that one way to promote the engagement of the _here and now_ is to find things in your immediate and real environment to care about. And, what component of nature has enough uniqueness and charm to serve as a latching post for our empathy, while maintaining a near omnipresent status? As you yourself have suggested (the fictionalized form of 'you' I myself created for my own purposes), the answer very well might be _Birds!_
+What I am attempting to suggest, in a round-about ineffective way, is that one way to promote the engagement of the _here and now_ is to find things in your immediate and real environment to care about. 
+
+And, what component of nature has enough uniqueness and charm to serve as a latching post for our empathy, while maintaining a near omnipresent status? As you yourself have suggested (the fictionalized form of 'you' I myself created for my own purposes), the answer very well might be _Birds!_
 
 You might not agree with any element of this argument at all. Which is fine. I have the rest of this document to convince you otherwise. 
 
