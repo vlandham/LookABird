@@ -18,9 +18,9 @@ You might not agree with any element of this argument at all. Which is fine. I h
 
 And with this book, I promote the idea of using birds as a grounding point for focusing our attention away from distraction, from faraway thinking or fictional worlds, and back on the real world that is happening around you. The real world around your feet, in the trees, and flying in the sky.
 
-As a simple rule of thumb to help us engage in this focused observation, I suggest a simple mantra to attempt to adhere to: _Stop, Look & Listen_.
+As a simple rule of thumb to help us engage in this focused observation, may I suggest a simple mantra to adhere to: _Stop, Look & Listen_.
 
-These are the simple requirements to bird observation. We must stop other activities. We must look at the subject at hand. We must listen to their calls.
+These are the simple requirements to bird observation. We must __stop__ other activities. We must __look__ at the subject at hand. We must __listen__ to their calls.
 
 Think of it as a less catchy form of _Stop, Drop, and Roll_. I am OK with my bird mantra not being as captivating as this one. The ability to detect and terminate self conflagration is a more important topic and deserves the increased attention it receives from its motto.
 
