@@ -1,4 +1,4 @@
-\documentclass{book}
+\documentclass[12pt]{book}
 
 % Fonts and typography
 
@@ -7,13 +7,13 @@
 \defaultfontfeatures{Mapping = tex-text, Scale = MatchLowercase}
 
 %% Fonts
-\setmainfont{Verdana}
-\setsansfont{Verdana}
+\setmainfont{Adobe Garamond Pro}
+\setsansfont{Adobe Garamond Pro}
 \setmonofont[Mapping=tex-ansi]{Menlo}
 
 %% Set Sans font in headings
 \usepackage{sectsty}
-\allsectionsfont{\sffamily}
+% \allsectionsfont{\sffamily}
 
 %% Set polyglossia language
 \usepackage{polyglossia}
@@ -35,6 +35,8 @@
 %% Start sections from new page
 \let\stdsection\section
 \renewcommand\section{\newpage\stdsection}
+
+\usepackage[labelformat=empty]{caption}
 
 
 % Colors
